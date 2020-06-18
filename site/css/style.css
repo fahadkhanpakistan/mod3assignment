@@ -1,0 +1,51 @@
+/*Main Content*/
+body {}
+
+.row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.help {
+
+    background-color: red;
+    color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.container {
+    position: relative;
+    margin-top: 50px;
+
+}
+
+#menu-title {
+    margin-top: 10px;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+#header-nav {
+    background-color: red;
+    color: white;
+
+}
+
+nav>.container {
+    margin-top: 0;
+
+}
+
+header h2 {
+    margin-right: 0;
+    margin-left: 0;
+    color: white;
+}
+
+div>a:hover {
+    text-decoration: none;
+
+}
